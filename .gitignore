@@ -1,6 +1,8 @@
 venv/
-.idea
+.idea/
 
 
+**/__pychach__/
+*.pyc
 
 
