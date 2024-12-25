@@ -1,8 +1,9 @@
 venv/
 .idea/
-
+media/
 
 **/__pychach__/
 *.pyc
+db.sqlite3
 
 
